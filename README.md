@@ -4,8 +4,7 @@ A restaurant billing system using python and tkinter.
 ### How to run the program on your device:
 - Clone the repository.
 - Run the program by typing ```python billing.py```
-
-<p> Ubuntu/Linux users need to get python3-tk to run the program and can achieved by ```sudo apt-get install python3-tk```</p>
+- Ubuntu/Linux users need to get python3-tk to run the program and can achieved by ```sudo apt-get install python3-tk```
 
 ### Functionalities:
 - Total bill along with sub-total and tax is displayed.
